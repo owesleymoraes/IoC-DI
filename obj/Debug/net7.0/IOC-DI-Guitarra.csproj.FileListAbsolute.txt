@@ -1,0 +1,14 @@
+D:\app_web\O.O-C#-basic\IOC-DI-Guitarra\obj\Debug\net7.0\IOC-DI-Guitarra.GeneratedMSBuildEditorConfig.editorconfig
+D:\app_web\O.O-C#-basic\IOC-DI-Guitarra\obj\Debug\net7.0\IOC-DI-Guitarra.AssemblyInfoInputs.cache
+D:\app_web\O.O-C#-basic\IOC-DI-Guitarra\obj\Debug\net7.0\IOC-DI-Guitarra.AssemblyInfo.cs
+D:\app_web\O.O-C#-basic\IOC-DI-Guitarra\obj\Debug\net7.0\IOC-DI-Guitarra.csproj.CoreCompileInputs.cache
+D:\app_web\O.O-C#-basic\IOC-DI-Guitarra\bin\Debug\net7.0\IOC-DI-Guitarra.exe
+D:\app_web\O.O-C#-basic\IOC-DI-Guitarra\bin\Debug\net7.0\IOC-DI-Guitarra.deps.json
+D:\app_web\O.O-C#-basic\IOC-DI-Guitarra\bin\Debug\net7.0\IOC-DI-Guitarra.runtimeconfig.json
+D:\app_web\O.O-C#-basic\IOC-DI-Guitarra\bin\Debug\net7.0\IOC-DI-Guitarra.dll
+D:\app_web\O.O-C#-basic\IOC-DI-Guitarra\bin\Debug\net7.0\IOC-DI-Guitarra.pdb
+D:\app_web\O.O-C#-basic\IOC-DI-Guitarra\obj\Debug\net7.0\IOC-DI-Guitarra.dll
+D:\app_web\O.O-C#-basic\IOC-DI-Guitarra\obj\Debug\net7.0\refint\IOC-DI-Guitarra.dll
+D:\app_web\O.O-C#-basic\IOC-DI-Guitarra\obj\Debug\net7.0\IOC-DI-Guitarra.pdb
+D:\app_web\O.O-C#-basic\IOC-DI-Guitarra\obj\Debug\net7.0\IOC-DI-Guitarra.genruntimeconfig.cache
+D:\app_web\O.O-C#-basic\IOC-DI-Guitarra\obj\Debug\net7.0\ref\IOC-DI-Guitarra.dll
